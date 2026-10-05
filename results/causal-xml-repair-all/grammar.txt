@@ -1,0 +1,109 @@
+start: stmt
+stmt: "<" t8751 ">"
+t8751: t7106 "/" "e"
+    | t6914 "/" "c"
+    | t6748 "/" "d"
+    | "a" "/"
+    | "e" "/"
+    | t7108 "/" "a"
+    | "b" " " t74 t2671 "\"" t74 "\"" t6256 "/" "b"
+    | "d" "/"
+    | "b" "/"
+    | "c" "/"
+t7106: "e" t6256
+    | t7248 t6256
+t6256: t604 "<"
+    | ">" "<"
+    | t6256 t8751 t6256
+t604: ">" t74
+    | ">" stmt
+t74: tletter_alphanums
+t7248: t7106 t8751
+    | "e" " " t74 t2671 "\"" t74 "\""
+t6914: "c" t6256
+    | "c" " " t74 t2671 "\"" t74 "\"" t6256
+t6748: t6911 t6256
+    | "d" t6256
+t6911: "d" " " t74 t2671 "\"" t74 "\""
+    | t6748 t8751
+t2671: "="
+    | t2671 "\"" t74 "\"" " " t74 t2671
+t7108: t7245 t6256
+    | "a" t6256
+t7245: "a" " " t74 t2671 "\"" t74 "\""
+    | t7108 t8751
+tletter_alphanums: tletter_alphanums_symbol
+    | tletter talphanums
+    | tletter
+    | tletter_alphanums_symbol tletter_alphanums
+tletter_alphanums_symbol: ":"
+    | ">"
+    | "_"
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+talphanums: talphanum
+    | talphanum talphanums
+talphanum: tdigit
+    | tletter
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+ %import common.WS
+ %ignore WS

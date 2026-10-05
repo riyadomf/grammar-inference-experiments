@@ -1,0 +1,55 @@
+start: stmt
+stmt: t2178 " " stmt
+    | "skip"
+    | "L" " " t556
+t2178: stmt " " ";"
+    | t1629 " " t1407 " " stmt " " "else"
+    | t1259 " " t1404
+t1629: "if" " " t458
+    | t855 " " "=" t556
+    | t2178 " " t1629
+t458: "true"
+    | t463 t458
+    | "false"
+t1407: "then"
+    | t1401 " " t1407
+t1259: "while" " " t458
+    | t849 " " "=" t556
+t1404: t1401 " " t1404
+    | "do"
+t1401: "&" " " t458
+    | t1401 " " t1401
+    | t1164 " " "=" t556
+t556: "=" " " t345
+    | "=" " " "L"
+t345: "(" t796 ")"
+    | "n"
+t796: t553 t345
+    | t553 "L"
+t553: "L" "+"
+    | t345 "+"
+t855: "if" " " "L"
+    | "if" " " t1071
+    | "if" " " t345
+t463: "~"
+    | t463 t463
+t849: "while" " " t1071
+    | "while" " " t345
+    | "while" " " "L"
+t1071: t463 "L"
+    | t458 " " t1164
+    | t463 t345
+t1164: "&" " " t1071
+    | "&" " " t345
+    | "&" " " "L"
+Longest rule distance: 5
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/repro-while-r1/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 1.0
+Recall set (size 1000):
+Recall eval:
+
+Recall: 1.0, Precision: 1.0, F-1: 1.0

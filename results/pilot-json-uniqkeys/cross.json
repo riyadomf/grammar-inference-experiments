@@ -1,0 +1,18 @@
+{
+ "log": "search.log",
+ "n_samples": 1000,
+ "depth": 7,
+ "precision": {
+  "golden": 1.0,
+  "uniq": 0.943
+ },
+ "recall": {},
+ "agreement": {
+  "golden|uniq": {
+   "both_accept": 943,
+   "only_golden": 57,
+   "only_uniq": 0,
+   "both_reject": 0
+  }
+ }
+}

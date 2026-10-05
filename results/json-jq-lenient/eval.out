@@ -1,0 +1,158 @@
+start: stmt
+stmt: t488 t42
+    | t347 "\""
+    | "{" t347 "\"" t609 "}"
+    | "true"
+    | "[" t358 stmt "]"
+    | "null"
+    | "[" "]"
+    | "false"
+    | "{" "}"
+    | t42
+    | "[" stmt "]"
+    | tdigits
+t488: t42 t43
+    | t351
+    | t351 t43
+t42: tdigits
+t43: "."
+    | tdigits_1
+t347: "\"" talphanums
+    | "\"" t42
+    | "\"" t43
+t609: ":" stmt
+    | ":" t42
+    | ":" t347 "\""
+    | t609 "," t347 "\"" t609
+t358: stmt ","
+    | t358 t358
+    | t42 ","
+t351: t351 t42
+    | t351_symbol
+tdigits: tdigit
+    | tdigit tdigits
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tdigits_1: "."
+    | tdigit
+    | tdigit tdigits_1
+    | "." tdigits_1
+talphanums: talphanums_symbol
+    | talphanum
+    | talphanum talphanums
+    | talphanums_symbol talphanums
+talphanums_symbol: "!"
+    | "\\\""
+    | "#"
+    | "$"
+    | "%"
+    | "&"
+    | "'"
+    | "("
+    | ")"
+    | "*"
+    | "+"
+    | ","
+    | "-"
+    | "."
+    | "/"
+    | ":"
+    | ";"
+    | "<"
+    | "="
+    | ">"
+    | "?"
+    | "@"
+    | "["
+    | "\\\\"
+    | "]"
+    | "^"
+    | "_"
+    | "`"
+    | "{"
+    | "|"
+    | "}"
+    | "~"
+    | " "
+    | "\\n"
+    | "\\t"
+    | "\\r"
+talphanum: tdigit
+    | tletter
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+t351_symbol: "+"
+    | "-"
+    | " "
+    | "\n"
+    | "\t"
+    | "\r"
+Longest rule distance: 5
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/json-jq-lenient/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 0.979
+Recall set (size 1000):
+Recall eval:
+
+Recall: 1.0, Precision: 0.979, F-1: 0.989388580090955

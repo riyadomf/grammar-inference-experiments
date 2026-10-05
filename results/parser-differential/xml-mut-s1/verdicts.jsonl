@@ -1,0 +1,500 @@
+{"s": "<c><@ Wqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"><a/</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfy:=\"A\">g</e>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": false, "expat": true, "mxml": true}}
+{"s": "< F=\"AT\" vT=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"<c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>ac</B>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"H\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "s<e>ac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\"w>NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d K=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a><d>O</d></a_>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L=\">NB</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"RQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e>ac</e", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" h/Gb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>S</`>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"w\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>fyqkO/d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a$", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfyeU=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo<d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\">t<c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a><db>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d ffx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "e>ac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb</k>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkO</>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESa\"><d>Mo=</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e>ac</ef>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"></></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQZ\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/>m/b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>ac</e", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><a Wqw=\"g\"VSAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": true, "expat": false, "mxml": true}}
+{"s": "<e><c><d w=\"K\"><a/></d></c>/e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/></c9", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O/d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>ac</eo", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">g</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATqNW=\"N\">Ug</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</7></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><$/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "Y<c><e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>c</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"meO\"><c/></7b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c n=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESca\"><d>Mo</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESr\"><d>Mo</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>Lmb</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uj\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e>ac<e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"}meO\"><c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a><d>O</d></\"a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" 2W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e><c><d w=\"K\"><a/></d></c></e4", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\" f=\"x\">vRXH</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d Wh=\"ns\"><a p=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "Ra><d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkO</>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"ns\"><a z=\"E\"0 dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\") N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c></></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESa\"><d>Mo</></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "g<b FwK=\"meO\"><c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><c><d w=\"K\"><a/></d></c;</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<dfyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<P MAATNW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qyk nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fax=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YlndAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "< uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESa\"h><d>Mo</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a</c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EwOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><b Jb=\"L\">NB</></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e* G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=d\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a MAATNO=\"N\">Ug</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<>S</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb</{a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"A\">g</e>-", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a>S</)a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></0a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>S</)a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>hyqkO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><e></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb<.a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d =\"pB\" f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "e><c><d w=\"K\"><a/></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "+a MAATNW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d8 Wh=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W4\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" T=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"WY\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c><Ea>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">NB</b></c", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e g=\"Ej\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" %=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>a|c</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">g</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><el/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d C=\"pB;\" f=\"x\">pRXH</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ut</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c nk=\"qHFY M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=9\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e G=Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<b FwK=\"meO\"><+c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fy=kO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<auC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>S<j/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lm,eb</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><b Jb=\"L\">NB</bl</c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c>\"<e/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b}FwK=\"meO\"><c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><e/></c!>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e g=\"`uEj\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>S</a>u", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d></a>3", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgu=K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"><a/></dm", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>2Lmeb</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<H><b Jb=\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">Ug<xa>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"LwW\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<{c><b Jb=\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\" f=\"x\">pXH</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"meO\"><d/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d C=\"pB\" f=K\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>M</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e>ac<ie>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>acj</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wq1=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"meO\"<c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<dfyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAAT^NW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>ac</eH>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</d></aX", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kR_QFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=K\"A\">g</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><b Jb=\"L\">NB</b><Cc>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e Ga=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/>:</c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>Leb</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><bJb=\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d/C=\"pB\" f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">Ug</P>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESVa\"><d>Mo</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d TK=_nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><L/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a5", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">NB</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><e/></c", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d F=AT\" vT=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><aXWqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=X\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a></c;", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"></></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hCb=\"Q\"><a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/>/e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>ac</eX>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "p<d>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATN:W=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": false, "expat": true, "mxml": true}}
+{"s": "<a o\"ESa\"><d>Mo</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b JbG=\"L\">NB</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>fyqkO</>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\" f=\"x\">pMRXH</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uj\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FT:H=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": false, "expat": true, "mxml": true}}
+{"s": "/<a>Lmeb</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "ed>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb</a1", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><ei></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb<a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" w Q=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"><a/</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/></>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><cUJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jbq=\"L\">NB</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ug9/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d C=\"pB\" f=\"x\">TRXH</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<aYLmeb</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">Ug9/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "vc nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\">Sd fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<_>S</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"pRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<eac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d></a>m", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>a</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d Wh=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</aF</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g\" SAu=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"A\"a>g</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><c><d w=\"K\"></></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"><a(></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\">\"<c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d></4>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><e/></c", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<b FwK=\"m:O\"><c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a><d>OJ</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<by FwK=\"meO\"><c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d[O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</d>&/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESa\"><d>Mo</d>/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><b Jb=\"L>NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATRW=\"N\">Ug</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><bJb=\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" Yldfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" =\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>ac<He>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"ns\"><a z=\"8E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<cj<e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\" f=\"x\">pRXH</d2", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">g</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a><1d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\"f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": true, "expat": false, "mxml": true}}
+{"s": "<a uC=\"{jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\"(N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\">I<a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" %Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": ";e><c><d w=\"K\"><a/></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><c><d w=\"K\"><a/></d</c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</d></an", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\" f=\"x\">pRXH<d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/></xb>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESSa\"><d>Mo</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c >UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>Lmeb<a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>yqkO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d C=\"pBJ f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"u;j\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": " <c><e/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfy=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>yqkO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c><r/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "Q<c><a Wqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c>ha Wqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"j\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><e/></c", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "d<a>Lmeb</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><c><d w=\"K\"><a/></d></c0</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><c><d w=\"K\"><a/></d><c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=AT\" vT=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nqt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgw=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" QxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>SA/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e kG=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>fyVqkO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ug<qa>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</d>f</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d Wh=\"ns\"><{ z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">NB</b></>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><n/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c<e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d :F=\"AT\" vT=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": true, "rexml": false, "expat": true, "mxml": true}}
+{"s": "<d qWh=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><e/>`/c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c nk=\"qHFY\" M=\"S\" w%AQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<cX<a Wqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a>/c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>ac</eB", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><e></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "c><e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></dA></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<aAS</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></av>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lme?b</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>Jd>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>S</j>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEsj\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d C=\"pB\" f=\"x\">p|XH</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>fyqkOd/d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<eac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<><d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"n\"><a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "F<d>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">B</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>Lmb</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"meO\"><c/</b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>3<d>O</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>S<Ia>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkCO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfe=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h'\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a></ci>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/><K/b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=SnJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a>Lmeb</>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a#S</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g\" Agu=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<7d>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d ,h=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><b Jb{\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\"( hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkO</*>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><e/></c6>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "a><d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqk</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>lLmeb</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"YA\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c nk=\"qHFY\"]M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><e/</c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><dP/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<><d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fajx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "d>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=a\"L\">NB</b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a>Sc/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d Wh=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</T></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">Ug</G>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C\"pB\" f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=@g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "e>ac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"n\"><c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a>Lmeb</a\"", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "Q<c><e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"eO\"><c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><cK></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c>/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"\"><a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>aOc</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAguT\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"m~O\"><c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d Wh=\"ns\"><a z=\"W\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c:><e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<-c><a Wqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c,/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d7</c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>ac<n/e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><c>dd w=\"K\"><a/></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d h=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"><u/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" Gb=\"Q\"><a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d></>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><cQ><d w=\"K\"><a/></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"><a/E</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</d></a", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"]><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"Q\"n><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\">@<d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d Wh=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</aD</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"A\">g</e;", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">U</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d F=\"AT\" vT=\"q\" hGb=\"zQ\"><a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"meO\"><c/>p</b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d =\"pB\" f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=BkRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e G=\"Y\" =\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"ns\"><a z=\"E\" dzZ=\"o\">wqS</a></d'", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">NB<3b></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"ns\"><a z=\"\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YBdAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"A\">gO</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATW=\"N\">Ug</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a~>S</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkd</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a></c>I", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<ar<d>O</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"n\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uj\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SA<gu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><e/><yc>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e><cw<d w=\"K\"><a/></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d F=\"AT\" vT`=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d>fVqkO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "G<a>S</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a< MAATNW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/></bK", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/P</b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>acL</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SA2gu=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>fy)qkO</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<F><e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Sc</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "e><c><d w=\"K\"><a/></d></c></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><e/O></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQCFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e>ac./e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c nk=\"qmFY\" M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<bFwK=\"meO\"><c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkO</dc", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=dA\">g</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c JLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a&Lmeb</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a 6AATNW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=C\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><b Jbd=\"L\">NB</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"\\eO\"><c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a qw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"nJ\"><c/></Nc>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">NB<wb></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d>fyqkO<G/d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C3\"pB\" f=\"x\">pRXH</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<cv<e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c nk=\"qHF\" M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a>/c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"2><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/></b", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ug<!/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><a qw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d C=\"pB\" f=\"x\">pRXH</d>W", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a MAATNW=\"N\"CUg</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\" M=\"S\" wAQ=\"n\"><c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "< MAATNW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<dF=\"AT\" vT=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<ke>ac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\"fR</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/></bM", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"o\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/>M</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d></a>%", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a>S<a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b FwK=\"meO\"><c/></b'", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\"Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLM=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a M'ATNW=\"N\">Ug</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a>S</a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d>p/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e g=\"uj\" Sv=\"s\" YldAfye=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<d>fyqk:O</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></6>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c ,JLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQV\" W=\"k\"><b/></e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\\><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHFY\"M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": true, "expat": false, "mxml": true}}
+{"s": "<d Wh=\"ns\"><a z=\"E\" dzZ=\"\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><b Jb=\"L\">NB</b^></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<b F!wK=\"meO\"><c/></b>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<a uC=jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<7>ac</e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d C=\"pB\" f=\"x\">pRXH<d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a><d>O</d></a", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<c><a @Wqw=\"g\" SAgu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<e>ac<e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\"  =\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><b Jb=\"L\">4NB</b></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d><a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b/g></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESa\"><jd>Mo</d></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>Vc</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k\"><b|/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"ntx><d/></b></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a MAATNW=\"N\">Ug<)a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\" I=\"v\" t=\"kRQFV\" W=\"k><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Q=\"AT\" vT=\"q\" hGb=\"Q\"><a/></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<r><e/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfye=\"A\">g</>e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e>a[c</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"meO\">5c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ug<z/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>S</a`", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"ns\"y<a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuO9\"><d fafx=\"h\"><c/></d></c></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e g=\"uEj\" Sv=\"s\" YldAfe=\"A\">g</e>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAg=\"K\">R</a></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a o=\"ESa\"><d>Mo</d*</a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c nk=\"qHY\" M=\"S\" wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<b FwK=\"eO\"><c/></b>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c nk=\"qHFY\" M=\"S wAQ=\"nJ\"><c/></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "d>fyqkO</d>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><a Wqw=\"g\" SA<gu=\"K\">R</a></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}
+{"s": "<d TK=\"nE\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b>d</d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ug<V/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<e G=\"Y\"fI=\"v\" t=\"kRQFV\" W=\"k\"><b/></e>", "accept": {"expat_ns": false, "lxml": false, "go": true, "java": false, "rexml": true, "expat": false, "mxml": true}}
+{"s": "<d C=\"pB\" f=\"x\">pRXH</>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d TK=\"nE3\" n=\"VwcSFC\" j=\"R\"><b Pgd=\"Lw\" N=\"WM\" FTGH=\"qy\" nxP=\"nt\"><d/></b></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<e><c><d w=\"K\"><a/></d></Pc></e>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<d Wh=\"nk\"><a z=\"E\" dzZ=\"o\">wqS</a></d>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<a MAATNW=\"N\">Ug<e/a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<c><e/1></c>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a>Lmeb</a|>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a uC=\"jm\"><c UJLME=\"EuOt\"><d fafx=\"h\"><c/></d>/c></a>", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": false}}
+{"s": "<a o=\"ESaz\"><d>Mo</d></a>", "accept": {"expat_ns": true, "lxml": true, "go": true, "java": true, "rexml": true, "expat": true, "mxml": true}}
+{"s": "<c><a Wqw=\"g\" SAgu=\"K\">R</a></c", "accept": {"expat_ns": false, "lxml": false, "go": false, "java": false, "rexml": false, "expat": false, "mxml": true}}

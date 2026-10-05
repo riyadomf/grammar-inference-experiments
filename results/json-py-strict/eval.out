@@ -1,0 +1,166 @@
+start: stmt
+stmt: t40 t41 t40
+    | t350 "\""
+    | "{" t350 "\"" t495 "}"
+    | "true"
+    | "[" t360 stmt "]"
+    | t157 t40
+    | "null"
+    | "[" "]"
+    | "false"
+    | "{" "}"
+    | t40
+    | t40 t40
+    | "[" stmt "]"
+    | tinteger
+t40: tinteger
+    | tnzinteger
+t41: "."
+t350: "\"" talphanums
+    | "\"" t40
+    | "\"" t41
+t495: ":" stmt
+    | ":" t40
+    | ":" t350 "\""
+    | t495 "," t350 "\"" t495
+t360: stmt ","
+    | t360 t360
+    | t40 ","
+t157: t156
+    | t156 t40 t41
+t156: t156_symbol
+tinteger: tdigit
+    | tnzdigit tdigits
+tdigits: tdigit
+    | tdigit tdigits
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tnzdigit: "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tnzinteger: tnzdigit
+    | tnzdigit tdigits
+talphanums: talphanums_symbol
+    | talphanum
+    | talphanum talphanums
+    | talphanums_symbol talphanums
+talphanums_symbol: "!"
+    | "\\\""
+    | "#"
+    | "$"
+    | "%"
+    | "&"
+    | "'"
+    | "("
+    | ")"
+    | "*"
+    | "+"
+    | ","
+    | "-"
+    | "."
+    | "/"
+    | ":"
+    | ";"
+    | "<"
+    | "="
+    | ">"
+    | "?"
+    | "@"
+    | "["
+    | "\\\\"
+    | "]"
+    | "^"
+    | "_"
+    | "`"
+    | "{"
+    | "|"
+    | "}"
+    | "~"
+    | " "
+    | "\\n"
+    | "\\t"
+    | "\\r"
+talphanum: tdigit
+    | tletter
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+t156_symbol: "-"
+    | " "
+    | "\n"
+    | "\t"
+    | "\r"
+Longest rule distance: 5
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/json-py-strict/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 0.994
+Recall set (size 1000):
+Recall eval:
+
+Recall: 0.98, Precision: 0.994, F-1: 0.9869503546099291

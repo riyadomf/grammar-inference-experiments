@@ -1,0 +1,31 @@
+{
+ "log": "runs/json-py-strict/search.log",
+ "n_samples": 1000,
+ "depth": 5,
+ "precision": {
+  "parse_json": 0.686,
+  "python": 0.994,
+  "jq": 0.995
+ },
+ "recall": {},
+ "agreement": {
+  "parse_json|python": {
+   "both_accept": 686,
+   "only_parse_json": 0,
+   "only_python": 308,
+   "both_reject": 6
+  },
+  "parse_json|jq": {
+   "both_accept": 686,
+   "only_parse_json": 0,
+   "only_jq": 309,
+   "both_reject": 5
+  },
+  "python|jq": {
+   "both_accept": 994,
+   "only_python": 0,
+   "only_jq": 1,
+   "both_reject": 5
+  }
+ }
+}

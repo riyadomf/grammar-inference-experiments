@@ -1,0 +1,74 @@
+{
+  "description": "Portable harness checked against the recorded public evidence.",
+  "full_inference_reruns": {
+    "causal-xml-control": {
+      "canonical_grammar_matches": true,
+      "per_input_recall_matches": true,
+      "sampled_precision_verdicts_match": true
+    },
+    "causal-xml-final-expansion": {
+      "canonical_grammar_matches": true,
+      "per_input_recall_matches": true,
+      "sampled_precision_verdicts_match": true
+    }
+  },
+  "strict_learning_queries_matched": 69829,
+  "scoped_trace_prefix_matches": true,
+  "oracle_answers_matched": 70829,
+  "saved_decisions_replayed": 16,
+  "differential_batches_matched": {
+    "json-control": 1000,
+    "json-grammar-jqlenient": 500,
+    "json-grammar-parsejson": 500,
+    "json-grammar-pystrict": 500,
+    "json-grammar-uniqkeys": 500,
+    "json-mut-s1": 500,
+    "json-mut-s2": 500,
+    "json-mut-s3": 500,
+    "json-queries-parsejson": 500,
+    "xml-control": 1000,
+    "xml-grammar-expat": 500,
+    "xml-grammar-golden": 500,
+    "xml-grammar-mxml": 500,
+    "xml-mut-s1": 500,
+    "xml-mut-s2": 500,
+    "xml-mut-s3": 500,
+    "xml-queries-expat": 500
+  },
+  "json_pilot": {
+    "test_count": 994,
+    "grammars": {
+      "baseline": {
+        "accepted_tests": 886,
+        "cross_check": {
+          "target": "unique",
+          "samples": 500,
+          "accepted": 500
+        }
+      },
+      "unique": {
+        "accepted_tests": 886,
+        "cross_check": {
+          "target": "baseline",
+          "samples": 500,
+          "accepted": 500
+        }
+      }
+    }
+  },
+  "clean_checkout": {
+    "setup": "setup-all",
+    "unit_tests_passed": 19,
+    "evidence_checksums_passed": true,
+    "runners_smoke_tested": [
+      "xvada",
+      "treevada"
+    ],
+    "tested_path_contains_spaces": true
+  },
+  "worker": {
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "expat": "expat_2.6.1",
+    "namespace_processing": false
+  }
+}

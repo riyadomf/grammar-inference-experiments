@@ -1,0 +1,12 @@
+{
+  "worker": {
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "expat": "expat_2.6.1",
+    "namespace_processing": false
+  },
+  "checked": 70829,
+  "source_sha256": "4bdba6e5df45700f065d86787239bad47755814fc732634b6686a828585a0c56",
+  "learning_queries": 69829,
+  "evaluation_queries": 1000,
+  "mismatches": []
+}

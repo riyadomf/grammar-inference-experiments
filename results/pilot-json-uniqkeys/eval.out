@@ -1,0 +1,158 @@
+start: stmt
+stmt: t279 t38
+    | "\"" t273
+    | "{" t1327 "}"
+    | "true"
+    | "[" t622 "]"
+    | "-" t3205
+    | "-" t38
+    | "null"
+    | "[" "]"
+    | "false"
+    | "{" "}"
+    | t38
+    | tinteger
+t279: t38 "."
+    | t83 "."
+t38: tnzinteger
+t273: talphanums "\""
+    | t38 "\""
+t1327: t1326
+    | t1270 t1825
+t1326: "\"" t3203
+    | "\"" t273 t496 t1327
+t3203: t832
+    | t273 t1825
+    | t57 t1549
+t832: t273 t400
+    | talphanums t1549
+    | t1127 t400
+t400: ":" stmt
+    | ":" t38
+    | ":" "\"" t273
+    | ":" t83
+t622: t270 stmt
+    | t270 t622
+    | t539 t622
+t270: stmt ","
+    | t38 ","
+t83: "-" t38
+    | tinteger
+t1270: "\"" t273 t496 t1270
+    | "\"" t1127
+t496: ":" t270
+    | t400 ","
+t1127: t1264 "\""
+    | t1126
+t1264: t1126 t496 "\"" talphanums
+    | t1109 t496 "\"" t57
+t1126: t57 "\"" t496 "\"" t1122
+    | t1122
+t57: talphanums
+t1122: t1109
+    | t1264 "\""
+t1109: t840
+    | t840 t496 "\"" t273
+t840: talphanums "\""
+    | t3205 "\""
+t1825: t496 t1326
+    | t496 t1273
+t1549: "\"" t400
+    | "\"" t1825
+t1273: "\"" t832
+    | "\"" t3203
+t539: t539 t270
+    | t270 t270
+tinteger: tdigit
+    | tnzdigit tdigits
+tdigits: tdigit
+    | tdigit tdigits
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tnzdigit: "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tnzinteger: tnzdigit
+    | tnzdigit tdigits
+talphanums: talphanum
+    | talphanum talphanums
+talphanum: tdigit
+    | tletter
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+t3205: tnzinteger
+Longest rule distance: 7
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/json-uniqkeys/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 0.943
+Recall set (size 994):
+Recall eval:
+
+Recall: 0.8913480885311871, Precision: 0.943, F-1: 0.9164468322454041

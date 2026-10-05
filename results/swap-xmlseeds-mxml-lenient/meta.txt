@@ -1,0 +1,8 @@
+start 2026-09-28T22:53:40+06:00
+commit af167eb8
+oracle subjects/mxml/oracle_lenient.sh
+train artifacts/xvada/experiments/xml/xml-train
+test artifacts/xvada/experiments/xml/xml-test
+flags 
+search_s 3223 eval_s 59 end 2026-09-28T23:48:22+06:00
+Recall: 1.0, Precision: 0.405, F-1: 0.5765124555160143

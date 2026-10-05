@@ -1,0 +1,146 @@
+start: stmt
+stmt: t5036 ">"
+t5036: "<" t6731
+t6731: t5060 "/" "e"
+    | t5213 "/" "c"
+    | t5051 "/" "d"
+    | "a" "/"
+    | "e" "/"
+    | t5063 "/" "a"
+    | "b" " " t6733 t4798 "/" "b"
+    | "d" "/"
+    | "b" "/"
+    | "c" "/"
+t5060: "e" t4550
+    | t5060 t6731 t4550
+    | "e" " " t6733 t4798
+t4550: t668 "<"
+    | ">" "<"
+    | t4550 t6731 t4550
+t668: ">" t6733
+    | ">" stmt
+t6733: tletter_digits
+    | tletter_digits_1
+t5213: "c" t4550
+    | "c" " " t6733 t4798
+t5051: "d" " " t6733 t4798
+    | "d" t4550
+    | t5051 t6731 t4550
+t4798: t3551 "<"
+    | t3551 t5036 t4550
+t3551: "=" t4792
+t4792: "\"" t3139
+    | "\"" t6732
+t3139: t6732
+    | t347 t668
+    | t347 ">"
+    | t347 " " t3548
+t6732: t3139
+    | t5038 "=" "\"" t6732
+    | t347 " " t3548
+t347: t6733 "\""
+    | t65 "\""
+t5038: t347 " " t65
+    | t347 " " t3133
+    | t347 " " t6733
+t65: t65_symbol
+    | tletter_alphanums
+t3548: t3134 t3551
+t3134: t3133
+    | t65 "=" "\"" t5038
+t3133: t2310
+    | t2310 "=" "\"" t5038
+t2310: tletter_alphanums
+t5063: "a" " " t6733 t4798
+    | "a" t4550
+    | t5063 t6731 t4550
+tletter_digits: ">"
+    | tletter tdigits
+    | tletter
+    | ">" tletter_digits
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+tdigits: tdigit
+    | tdigit tdigits
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tletter_digits_1: tletter_digits_1_symbol
+    | tletter tdigits
+    | tletter
+    | tletter_digits_1_symbol tletter_digits_1
+tletter_digits_1_symbol: ">"
+    | "_"
+t65_symbol: ":"
+    | ">"
+    | "_"
+tletter_alphanums: tletter_alphanums_symbol
+    | tletter talphanums
+    | tletter
+    | tletter_alphanums_symbol tletter_alphanums
+tletter_alphanums_symbol: ":"
+    | ">"
+    | "_"
+talphanums: talphanum
+    | talphanum talphanums
+talphanum: tdigit
+    | tletter
+ %import common.WS
+ %ignore WS

@@ -1,0 +1,8 @@
+start 2026-09-29T00:45:26+06:00
+commit af167eb8
+oracle artifacts/xvada/experiments/turtle/parse_turtle
+train artifacts/xvada/experiments/turtle/turtle-train
+test artifacts/xvada/experiments/turtle/turtle-test
+flags 
+search_s 594 eval_s 97 end 2026-09-29T00:56:57+06:00
+Recall: 1.0, Precision: 1.0, F-1: 1.0

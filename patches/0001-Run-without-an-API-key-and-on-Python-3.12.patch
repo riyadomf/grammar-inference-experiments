@@ -1,0 +1,82 @@
+From 1b38aaf4eb7cc47ecab122121f98ef4354ad2eac Mon Sep 17 00:00:00 2001
+From: riyadomf <riyad.omf@gmail.com>
+Date: Tue, 29 Sep 2026 16:48:37 +0600
+Subject: [PATCH] Run without an API key and on Python 3.12+
+
+Drop the unused lib2to3 import (removed in Python 3.13, missing from
+Ubuntu's 3.12). Build the OpenAI client on first use, so runs with all
+LLM features off no longer need OPENAI_API_KEY.
+
+---
+ bubble_llm.py      | 9 ++++++++-
+ bubble_pair_llm.py | 9 ++++++++-
+ group.py           | 1 -
+ label_llm.py       | 9 ++++++++-
+ 4 files changed, 24 insertions(+), 4 deletions(-)
+
+diff --git a/bubble_llm.py b/bubble_llm.py
+index eb0c328f..0a148702 100644
+--- a/bubble_llm.py
++++ b/bubble_llm.py
+@@ -1,5 +1,12 @@
+ from openai import OpenAI
+-client = OpenAI()
++class _LazyOpenAI:
++    """Build the OpenAI client on first use, so runs with LLM features off need no API key."""
++    _client = None
++    def __getattr__(self, name):
++        if _LazyOpenAI._client is None:
++            _LazyOpenAI._client = OpenAI()
++        return getattr(_LazyOpenAI._client, name)
++client = _LazyOpenAI()
+ 
+ # You are an AI assistant. You will help to build parse trees from flat tree levels.
+ #     You will combine adjacent nodes from a tree level. Those nodes will be placed under a new parent node at that position.
+diff --git a/bubble_pair_llm.py b/bubble_pair_llm.py
+index 85a9312d..728acf81 100644
+--- a/bubble_pair_llm.py
++++ b/bubble_pair_llm.py
+@@ -1,5 +1,12 @@
+ from openai import OpenAI
+-client = OpenAI()
++class _LazyOpenAI:
++    """Build the OpenAI client on first use, so runs with LLM features off need no API key."""
++    _client = None
++    def __getattr__(self, name):
++        if _LazyOpenAI._client is None:
++            _LazyOpenAI._client = OpenAI()
++        return getattr(_LazyOpenAI._client, name)
++client = _LazyOpenAI()
+ 
+ # You are an AI assistant. You will be given a list of tree levels.
+ # You will find out segment pairs from these levels in a way that a segment pair can be derived from the same AST node.
+diff --git a/group.py b/group.py
+index 80d2ad7e..107d0263 100644
+--- a/group.py
++++ b/group.py
+@@ -1,4 +1,3 @@
+-from lib2to3.pgen2 import token
+ from math import ceil
+ import random
+ from collections import defaultdict
+diff --git a/label_llm.py b/label_llm.py
+index d6edbd31..8be767e7 100644
+--- a/label_llm.py
++++ b/label_llm.py
+@@ -1,6 +1,13 @@
+ from openai import OpenAI
+ import re
+-client = OpenAI()
++class _LazyOpenAI:
++    """Build the OpenAI client on first use, so runs with LLM features off need no API key."""
++    _client = None
++    def __getattr__(self, name):
++        if _LazyOpenAI._client is None:
++            _LazyOpenAI._client = OpenAI()
++        return getattr(_LazyOpenAI._client, name)
++client = _LazyOpenAI()
+ 
+ SYSTEM_PROMPT = (
+     "You are an AI assistant. You will label the internal nodes in the parse tree of any arbitrary program. "
+-- 
+2.43.0

@@ -1,0 +1,31 @@
+{
+ "log": "runs/repro-json-r1/search.log",
+ "n_samples": 1000,
+ "depth": 5,
+ "precision": {
+  "parse_json": 1.0,
+  "python": 1.0,
+  "jq": 1.0
+ },
+ "recall": {},
+ "agreement": {
+  "parse_json|python": {
+   "both_accept": 1000,
+   "only_parse_json": 0,
+   "only_python": 0,
+   "both_reject": 0
+  },
+  "parse_json|jq": {
+   "both_accept": 1000,
+   "only_parse_json": 0,
+   "only_jq": 0,
+   "both_reject": 0
+  },
+  "python|jq": {
+   "both_accept": 1000,
+   "only_python": 0,
+   "only_jq": 0,
+   "both_reject": 0
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+  "worker": {
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "expat": "expat_2.6.1",
+    "namespace_processing": false
+  },
+  "rules_including_start": 20,
+  "alternatives_including_start": 107,
+  "sample_seed": 0,
+  "sample_depth": 7,
+  "samples": 1000,
+  "precision": {
+    "accepted": 935,
+    "4": 46,
+    "8": 19
+  },
+  "recall": {
+    "all": {
+      "parsed": 867,
+      "rejected": 133
+    },
+    "heldout": {
+      "parsed": 847,
+      "rejected": 133
+    },
+    "strict_valid": {
+      "parsed": 862,
+      "rejected": 131
+    },
+    "strict_valid_heldout": {
+      "parsed": 842,
+      "rejected": 131
+    }
+  },
+  "per_parse_limit_s": 10,
+  "process_memory_limit_gib": 3
+}

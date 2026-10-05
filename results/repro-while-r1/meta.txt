@@ -1,0 +1,8 @@
+start 2026-09-28T22:42:51+06:00
+commit af167eb8
+oracle artifacts/xvada/experiments/while/parse_while
+train artifacts/xvada/experiments/while/while-train
+test artifacts/xvada/experiments/while/while-test
+flags 
+search_s 2390 eval_s 76 end 2026-09-28T23:23:57+06:00
+Recall: 1.0, Precision: 1.0, F-1: 1.0

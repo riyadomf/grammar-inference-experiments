@@ -1,0 +1,23 @@
+{
+ "source": "runs/parser-differential/v2/inputs/json-queries-parsejson.jsonl",
+ "kind": "json",
+ "depth": null,
+ "n": 500,
+ "main_parsers": [
+  "python",
+  "node",
+  "jq",
+  "ruby",
+  "go",
+  "perl"
+ ],
+ "extra_parsers": [],
+ "all_accept": 240,
+ "all_reject": 254,
+ "split": 6,
+ "hist": {
+  "0": 254,
+  "1": 6,
+  "6": 240
+ }
+}

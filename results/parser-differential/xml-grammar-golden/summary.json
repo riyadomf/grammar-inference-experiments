@@ -1,0 +1,24 @@
+{
+ "source": "runs/repro-xml-r1/search.log",
+ "kind": "xml",
+ "depth": 5,
+ "n": 500,
+ "main_parsers": [
+  "expat_ns",
+  "lxml",
+  "go",
+  "java",
+  "rexml"
+ ],
+ "extra_parsers": [
+  "expat",
+  "mxml"
+ ],
+ "all_accept": 499,
+ "all_reject": 0,
+ "split": 1,
+ "hist": {
+  "1": 1,
+  "5": 499
+ }
+}

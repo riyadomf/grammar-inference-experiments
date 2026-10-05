@@ -1,0 +1,26 @@
+{
+ "source": "runs/parser-differential/v2/inputs/xml-queries-expat.jsonl",
+ "kind": "xml",
+ "depth": null,
+ "n": 500,
+ "main_parsers": [
+  "expat_ns",
+  "lxml",
+  "go",
+  "java",
+  "rexml"
+ ],
+ "extra_parsers": [
+  "expat",
+  "mxml"
+ ],
+ "all_accept": 164,
+ "all_reject": 332,
+ "split": 4,
+ "hist": {
+  "0": 332,
+  "1": 2,
+  "2": 2,
+  "5": 164
+ }
+}

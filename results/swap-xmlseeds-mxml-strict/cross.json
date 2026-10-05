@@ -1,0 +1,18 @@
+{
+ "log": "runs/swap-xmlseeds-mxml-strict/search.log",
+ "n_samples": 1000,
+ "depth": 6,
+ "precision": {
+  "expat": 0.015,
+  "antlr": 0.008
+ },
+ "recall": {},
+ "agreement": {
+  "expat|antlr": {
+   "both_accept": 8,
+   "only_expat": 7,
+   "only_antlr": 0,
+   "both_reject": 985
+  }
+ }
+}

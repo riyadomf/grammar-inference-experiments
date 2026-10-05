@@ -1,0 +1,22 @@
+{
+ "source": "runs/json-py-strict/search.log",
+ "kind": "json",
+ "depth": 5,
+ "n": 500,
+ "main_parsers": [
+  "python",
+  "node",
+  "jq",
+  "ruby",
+  "go",
+  "perl"
+ ],
+ "extra_parsers": [],
+ "all_accept": 497,
+ "all_reject": 0,
+ "split": 3,
+ "hist": {
+  "1": 3,
+  "6": 497
+ }
+}

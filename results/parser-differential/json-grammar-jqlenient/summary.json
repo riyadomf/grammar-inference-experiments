@@ -1,0 +1,23 @@
+{
+ "source": "runs/json-jq-lenient/search.log",
+ "kind": "json",
+ "depth": 5,
+ "n": 500,
+ "main_parsers": [
+  "python",
+  "node",
+  "jq",
+  "ruby",
+  "go",
+  "perl"
+ ],
+ "extra_parsers": [],
+ "all_accept": 454,
+ "all_reject": 5,
+ "split": 41,
+ "hist": {
+  "0": 5,
+  "1": 41,
+  "6": 454
+ }
+}

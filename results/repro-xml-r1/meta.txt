@@ -1,0 +1,8 @@
+start 2026-09-28T22:42:51+06:00
+commit af167eb8
+oracle artifacts/xvada/experiments/xml/parse_xml
+train artifacts/xvada/experiments/xml/xml-train
+test artifacts/xvada/experiments/xml/xml-test
+flags 
+search_s 1214 eval_s 90 end 2026-09-28T23:04:35+06:00
+Recall: 0.867, Precision: 1.0, F-1: 0.9287627209426887

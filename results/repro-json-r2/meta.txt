@@ -1,0 +1,8 @@
+start 2026-09-28T22:57:50+06:00
+commit af167eb8
+oracle artifacts/xvada/experiments/json/parse_json
+train artifacts/xvada/experiments/json/json-train
+test artifacts/xvada/experiments/json/json-test
+flags 
+search_s 394 eval_s 65 end 2026-09-28T23:05:29+06:00
+Recall: 0.891, Precision: 1.0, F-1: 0.9423585404547858

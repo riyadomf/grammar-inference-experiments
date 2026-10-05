@@ -1,0 +1,91 @@
+start: stmt
+stmt: "<" t7003 ">"
+t7003: t6534 "/" "e"
+    | t6530 "/" "c"
+    | t6996 "/" "d"
+    | "a" "/"
+    | "e" "/"
+    | t6999 "/" "a"
+    | "b" " " t74 t2596 "\"" t74 "\"" t6767 "/" "b"
+    | "d" "/"
+    | "b" "/"
+    | "c" "/"
+t6534: "e" t6767
+    | "e" " " t74 t2596 "\"" t74 "\"" t6767
+t6767: t6772 "<"
+t6772: ">" t74
+    | ">" stmt
+t74: tletters
+t6530: "c" t6767
+    | "c" " " t74 t2596 "\"" t74 "\"" t6767
+t6996: "d" " " t74 t2596 "\"" t74 "\"" t6767
+    | "d" t6767
+t2596: "="
+    | t2596 "\"" t74 "\"" " " t74 t2596
+t6999: "a" " " t74 t2596 "\"" t74 "\"" t6767
+    | "a" t6767
+tletters: tletter
+    | tletter tletters
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+Longest rule distance: 5
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/repro-xml-r1/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 1.0
+Recall set (size 1000):
+Recall eval:
+
+Recall: 0.867, Precision: 1.0, F-1: 0.9287627209426887

@@ -1,0 +1,267 @@
+start: stmt
+stmt: t6656 t215
+    | "<" t6479
+    | "<"
+    | t6656
+    | "<" t6472
+t6656: "<" t6472
+t6472: t5406 t6316 "/" t5406
+    | t2994 t6316 t6257
+    | t6479 t6604
+    | t2989 "/"
+    | t5406 "/"
+    | t2989 t6316 "/" t2989
+    | t5403 t6316 "/" t5403
+    | "d" "/"
+    | t5403 "/"
+    | t2994 "/"
+t5406: "e"
+    | "e" " " t5072 t400
+t6316: t215 "<"
+    | t6316 t6472 t6316
+    | t215 stmt "<"
+t215: t215 t57
+    | ">"
+t57: talphanums
+    | talphanums_1
+t2994: "c"
+    | "c" " " t5072 t400
+t6257: t6472 t6316 t6257
+    | "/" t2994
+t6479: t1676 "\"" t400 t6316
+    | t6479 t6604
+    | "d" t6316
+t1676: t1455 "="
+    | t1455 t1449 "="
+t1455: "d" " " t57
+    | t1455 t1952
+    | "d" t215
+t400: t57 "\""
+    | t65 "\""
+t2989: "a"
+    | "a" " " t5072 t400
+t6604: "/" "d"
+    | "/" t1455
+t1952: t1951
+    | t1951 t1449
+t1951: "=" "\"" t400 t65
+    | talphanums_2
+t65: talphanums
+    | talphanums_3
+t1449: "=" "\"" t400 t1952
+    | talphanums_2
+t5072: t2410 "\""
+    | t5072 t400 t1449 "=" "\""
+t2410: t57 t2410
+    | t1952 "="
+    | t57 "="
+t5403: "b" " " t5072 t400
+    | "b"
+talphanums: talphanums_symbol
+    | talphanum
+    | talphanum talphanums
+    | talphanums_symbol talphanums
+talphanums_symbol: "!"
+    | "#"
+    | "$"
+    | "%"
+    | "("
+    | ")"
+    | "*"
+    | "+"
+    | ","
+    | "-"
+    | "."
+    | ":"
+    | ";"
+    | "="
+    | ">"
+    | "@"
+    | "["
+    | "\\"
+    | "]"
+    | "^"
+    | "_"
+    | "`"
+    | "{"
+    | "|"
+    | "}"
+    | "~"
+    | "\\n"
+    | "\\t"
+    | "\\r"
+talphanum: tdigit
+    | tletter
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+talphanums_1: talphanums_1_symbol
+    | talphanum
+    | talphanum talphanums_1
+    | talphanums_1_symbol talphanums_1
+talphanums_1_symbol: "!"
+    | "#"
+    | "$"
+    | "%"
+    | "\\'"
+    | "("
+    | ")"
+    | "*"
+    | "+"
+    | ","
+    | "-"
+    | "."
+    | ":"
+    | ";"
+    | "="
+    | ">"
+    | "@"
+    | "["
+    | "\\"
+    | "]"
+    | "^"
+    | "_"
+    | "`"
+    | "{"
+    | "|"
+    | "}"
+    | "~"
+    | "\\n"
+    | "\\t"
+    | "\\r"
+talphanums_2: talphanums_2_symbol
+    | talphanum
+    | talphanum talphanums_2
+    | talphanums_2_symbol talphanums_2
+talphanums_2_symbol: "!"
+    | "#"
+    | "$"
+    | "%"
+    | "("
+    | ")"
+    | "*"
+    | "+"
+    | ","
+    | "-"
+    | "."
+    | ":"
+    | ";"
+    | "@"
+    | "["
+    | "\\"
+    | "]"
+    | "^"
+    | "_"
+    | "`"
+    | "{"
+    | "|"
+    | "}"
+    | "~"
+    | "\\n"
+    | "\\t"
+    | "\\r"
+talphanums_3: talphanums_3_symbol
+    | talphanum
+    | talphanum talphanums_3
+    | talphanums_3_symbol talphanums_3
+talphanums_3_symbol: "!"
+    | "#"
+    | "$"
+    | "%"
+    | "\\'"
+    | "("
+    | ")"
+    | "*"
+    | "+"
+    | ","
+    | "-"
+    | "."
+    | ":"
+    | ";"
+    | "\\<"
+    | "="
+    | ">"
+    | "@"
+    | "["
+    | "\\"
+    | "]"
+    | "^"
+    | "_"
+    | "`"
+    | "{"
+    | "|"
+    | "}"
+    | "~"
+    | "\\n"
+    | "\\t"
+    | "\\r"
+Longest rule distance: 6
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/swap-xmlseeds-mxml-strict/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 0.405
+Recall set (size 1000):
+Recall eval:
+
+Recall: 1.0, Precision: 0.405, F-1: 0.5765124555160143

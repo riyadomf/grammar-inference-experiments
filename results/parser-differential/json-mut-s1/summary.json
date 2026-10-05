@@ -1,0 +1,23 @@
+{
+ "source": "runs/parser-differential/v2/inputs/json-mut-s1.jsonl",
+ "kind": "json",
+ "depth": null,
+ "n": 500,
+ "main_parsers": [
+  "python",
+  "node",
+  "jq",
+  "ruby",
+  "go",
+  "perl"
+ ],
+ "extra_parsers": [],
+ "all_accept": 180,
+ "all_reject": 302,
+ "split": 18,
+ "hist": {
+  "0": 302,
+  "1": 18,
+  "6": 180
+ }
+}

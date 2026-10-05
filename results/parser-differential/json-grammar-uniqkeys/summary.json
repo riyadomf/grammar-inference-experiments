@@ -1,0 +1,21 @@
+{
+ "source": "runs/pilot-json-uniqkeys/search.log",
+ "kind": "json",
+ "depth": 7,
+ "n": 500,
+ "main_parsers": [
+  "python",
+  "node",
+  "jq",
+  "ruby",
+  "go",
+  "perl"
+ ],
+ "extra_parsers": [],
+ "all_accept": 500,
+ "all_reject": 0,
+ "split": 0,
+ "hist": {
+  "6": 500
+ }
+}

@@ -1,0 +1,91 @@
+start: stmt
+stmt: "c" " " t422
+    | t337 " " "{" stmt " " "}"
+    | stmt " " stmt
+    | t268 t189
+    | "c" " " t342
+t422: t342 " " stmt
+    | t342 " " t342
+t342: t342 "c"
+    | tupper tlowers
+t337: "repeat" " " t189
+    | "fill"
+t189: "5"
+    | "3"
+    | "1"
+    | "0"
+    | "9"
+    | "8"
+    | "2"
+    | "6"
+    | "7"
+    | "4"
+t268: "l"
+    | "b"
+    | "f"
+    | "r"
+tupper: "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+tlowers: tlower
+    | tlower tlowers
+tlower: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+Longest rule distance: 4
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/repro-turtle-r1/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 1.0
+Recall set (size 1000):
+Recall eval:
+
+Recall: 1.0, Precision: 1.0, F-1: 1.0

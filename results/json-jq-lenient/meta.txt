@@ -1,0 +1,8 @@
+start 2026-10-03T14:28:25+06:00
+commit 1b38aaf4
+oracle subjects/json_jq_oracle.sh
+train artifacts/xvada/experiments/json/json-train
+test artifacts/xvada/experiments/json/json-test
+flags 
+search_s 346 eval_s 36 end 2026-10-03T14:34:47+06:00
+Recall: 1.0, Precision: 0.979, F-1: 0.989388580090955

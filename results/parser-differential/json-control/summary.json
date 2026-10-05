@@ -1,0 +1,21 @@
+{
+ "source": "runs/parser-differential/v2/inputs/json-control.jsonl",
+ "kind": "json",
+ "depth": null,
+ "n": 1000,
+ "main_parsers": [
+  "python",
+  "node",
+  "jq",
+  "ruby",
+  "go",
+  "perl"
+ ],
+ "extra_parsers": [],
+ "all_accept": 1000,
+ "all_reject": 0,
+ "split": 0,
+ "hist": {
+  "6": 1000
+ }
+}

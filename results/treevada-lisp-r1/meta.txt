@@ -1,0 +1,7 @@
+start 2026-09-29T00:45:26+06:00
+commit 44fb606
+oracle artifacts/xvada/experiments/lisp/parse_lisp
+train artifacts/xvada/experiments/lisp/lisp-train
+test artifacts/xvada/experiments/lisp/lisp-test
+flags 
+eval stopped 2026-09-29T12:43:41+06:00: 22/1000 precision samples in 2.5h, samples up to 685KB, no oracle timeout in released code

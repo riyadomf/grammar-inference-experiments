@@ -1,0 +1,129 @@
+start: stmt
+stmt: t224 t39
+    | t218 "\""
+    | "{" t218 "\"" t600 "}"
+    | "true"
+    | "[" t464 "]"
+    | "-" t39
+    | "null"
+    | "[" "]"
+    | "false"
+    | "{" "}"
+    | t39
+    | t88
+    | tinteger
+t224: t39 "."
+    | t88 "."
+t39: tnzinteger
+t218: "\"" talphanums
+    | "\"" t39
+t600: ":" stmt
+    | ":" t39
+    | ":" t218 "\""
+    | t597 t218 "\"" t600
+    | ":" t88
+t464: t314 stmt
+    | t314 t464
+    | t412 t464
+t314: t88 ","
+    | stmt ","
+    | t39 ","
+t88: "-" t39
+    | tinteger
+t597: t597 t218 "\"" t597
+    | ":" t314
+    | t600 ","
+t412: t412 t314
+    | t314 t314
+tinteger: tdigit
+    | tnzdigit tdigits
+tdigits: tdigit
+    | tdigit tdigits
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tnzdigit: "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+tnzinteger: tnzdigit
+    | tnzdigit tdigits
+talphanums: talphanum
+    | talphanum talphanums
+talphanum: tdigit
+    | tletter
+tletter: "a"
+    | "b"
+    | "c"
+    | "d"
+    | "e"
+    | "f"
+    | "g"
+    | "h"
+    | "i"
+    | "j"
+    | "k"
+    | "l"
+    | "m"
+    | "n"
+    | "o"
+    | "p"
+    | "q"
+    | "r"
+    | "s"
+    | "t"
+    | "u"
+    | "v"
+    | "w"
+    | "x"
+    | "y"
+    | "z"
+    | "A"
+    | "B"
+    | "C"
+    | "D"
+    | "E"
+    | "F"
+    | "G"
+    | "H"
+    | "I"
+    | "J"
+    | "K"
+    | "L"
+    | "M"
+    | "N"
+    | "O"
+    | "P"
+    | "Q"
+    | "R"
+    | "S"
+    | "T"
+    | "U"
+    | "V"
+    | "W"
+    | "X"
+    | "Y"
+    | "Z"
+Longest rule distance: 5
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/repro-json-r3/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 1.0
+Recall set (size 1000):
+Recall eval:
+
+Recall: 0.891, Precision: 1.0, F-1: 0.9423585404547858

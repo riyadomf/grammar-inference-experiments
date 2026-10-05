@@ -1,0 +1,13 @@
+.local/
+.venv*/
+artifacts/
+build/
+runs/
+__pycache__/
+*.pyc
+subjects/mxml/harness
+subjects/checkers/xml_go
+subjects/checkers/json_go
+subjects/checkers/*.class
+*.log
+!results/**/*.log

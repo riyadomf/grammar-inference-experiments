@@ -1,0 +1,26 @@
+{
+ "source": "runs/parser-differential/v2/inputs/xml-mut-s2.jsonl",
+ "kind": "xml",
+ "depth": null,
+ "n": 500,
+ "main_parsers": [
+  "expat_ns",
+  "lxml",
+  "go",
+  "java",
+  "rexml"
+ ],
+ "extra_parsers": [
+  "expat",
+  "mxml"
+ ],
+ "all_accept": 136,
+ "all_reject": 356,
+ "split": 8,
+ "hist": {
+  "0": 356,
+  "1": 3,
+  "2": 5,
+  "5": 136
+ }
+}

@@ -1,0 +1,120 @@
+start: stmt
+stmt: "(" t775 ")"
+    | "(" t637 ")"
+    | "(" stmt ")"
+    | t637 t524
+    | "(" t730 ")"
+    | "ww"
+    | "gx"
+    | "jt"
+    | "lq"
+    | t637
+    | "xkrbm"
+    | "ja"
+    | "xp"
+    | "tf"
+    | "os"
+    | "nsy"
+    | "zh"
+    | "ak"
+    | "jrr"
+    | "fc"
+    | "iwz"
+    | "tw"
+    | "ag"
+    | "pi"
+    | "mhm"
+    | "wpp"
+    | "ee"
+    | "qq"
+    | "qs"
+    | "pr"
+    | "mja"
+    | "yr"
+    | "af"
+    | "jb"
+    | "evy"
+    | "nq"
+    | "jd"
+    | "ls"
+    | "gi"
+    | "rs"
+    | "tr"
+t775: t683 " " stmt
+    | t683 " " t637
+t683: stmt " " "."
+    | t637 " " "."
+t637: "k"
+    | "g"
+    | "d"
+    | "s"
+    | "p"
+    | t637 t637
+    | "m"
+    | "u"
+    | "y"
+    | "n"
+    | "q"
+    | "j"
+    | "w"
+    | "sa"
+    | t637 t524
+    | "v"
+    | "l"
+    | "z"
+    | "a"
+    | "h"
+    | "r"
+    | "pek"
+    | "o"
+    | "e"
+    | "b"
+    | "ru"
+    | "x"
+    | "f"
+    | "c"
+    | "iz"
+    | "t"
+    | "i"
+    | "ei"
+    | "ly"
+    | "ht"
+    | "qrv"
+    | "ke"
+    | "vv"
+    | "um"
+    | "sty"
+    | "su"
+    | "qp"
+    | "gz"
+t524: tdigits
+t730: t637 " " stmt
+    | stmt " " t637
+    | t637 " " t730
+    | stmt " " stmt
+    | t730 " " stmt
+    | t730 " " t730
+    | stmt " " t730
+tdigits: tdigit
+    | tdigit tdigits
+tdigit: "0"
+    | "1"
+    | "2"
+    | "3"
+    | "4"
+    | "5"
+    | "6"
+    | "7"
+    | "8"
+    | "9"
+Longest rule distance: 4
+Loading grammar
+ANTLR4 grammar written to antlr_grammars/repro-lisp-r1/searchlog.g4
+Precision set (size 1000):
+Eval of precision:
+
+Precision: 1.0
+Recall set (size 1000):
+Recall eval:
+
+Recall: 1.0, Precision: 1.0, F-1: 1.0

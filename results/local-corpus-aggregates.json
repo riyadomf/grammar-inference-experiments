@@ -1,0 +1,107 @@
+{
+  "xml-grammar-realexpat": {
+    "kind": "xml",
+    "depth": 6,
+    "n": 500,
+    "main_parsers": [
+      "expat_ns",
+      "lxml",
+      "go",
+      "java",
+      "rexml"
+    ],
+    "extra_parsers": [
+      "expat",
+      "mxml"
+    ],
+    "all_accept": 157,
+    "all_reject": 325,
+    "split": 18,
+    "hist": {
+      "0": 325,
+      "1": 11,
+      "2": 5,
+      "3": 2,
+      "5": 157
+    }
+  },
+  "xml-grammar-realmxml": {
+    "kind": "xml",
+    "depth": 7,
+    "n": 500,
+    "main_parsers": [
+      "expat_ns",
+      "lxml",
+      "go",
+      "java",
+      "rexml"
+    ],
+    "extra_parsers": [
+      "expat",
+      "mxml"
+    ],
+    "all_accept": 4,
+    "all_reject": 493,
+    "split": 3,
+    "hist": {
+      "0": 493,
+      "2": 3,
+      "5": 4
+    }
+  },
+  "realxml-expat": {
+    "precision": {
+      "n_samples": 1000,
+      "depth": 6,
+      "precision": {
+        "mxml_strict": 0.34,
+        "expat": 0.331
+      },
+      "recall": {},
+      "agreement": {
+        "mxml_strict|expat": {
+          "both_accept": 329,
+          "only_mxml_strict": 11,
+          "only_expat": 2,
+          "both_reject": 658
+        }
+      }
+    },
+    "recall_recorded_in_notes": {
+      "n": 1000,
+      "parsed": 100,
+      "timeout": 97,
+      "crashed": 14,
+      "provenance": "Historical aggregate; the complete per-input report is not available in the repository."
+    }
+  },
+  "realxml-mxml-strict": {
+    "precision": {
+      "n_samples": 1000,
+      "depth": 7,
+      "precision": {
+        "mxml_strict": 0.759,
+        "expat": 0.005
+      },
+      "recall": {},
+      "agreement": {
+        "mxml_strict|expat": {
+          "both_accept": 5,
+          "only_mxml_strict": 754,
+          "only_expat": 0,
+          "both_reject": 241
+        }
+      }
+    },
+    "recall": {
+      "n": 1000,
+      "recall": 0.081,
+      "parsed": 81,
+      "failed": 770,
+      "memcap": 0,
+      "timeout": 149
+    }
+  },
+  "reproducible_from_repository": false,
+  "reason": "The locally collected corpus and derived inputs are not distributed."
+}

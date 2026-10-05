@@ -1,0 +1,51 @@
+{
+  "worker": {
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "expat": "expat_2.6.1",
+    "namespace_processing": false
+  },
+  "allow_contexts": [],
+  "random_seed": 0,
+  "artifact_commit": "1b38aaf4eb7cc47ecab122121f98ef4354ad2eac",
+  "config": {
+    "USE_PRETOKENIZATION": true,
+    "GROUP_PUNCTUATION": false,
+    "SPLIT_UPPER_AND_LOWER": false,
+    "USE_LLM": false,
+    "TREEVADA": true,
+    "HDD": true,
+    "AI_LABEL": false
+  },
+  "harness_sha256": {
+    "trace_xml_generalization.py": "fbf1ff6c333dd7696e7dc2badf91ea44c3d13b9a2ea9b23e5ba757a45c32ca56",
+    "causal_xml_worker.py": "32521e181749b618e0bd528c3806be6b6213609ecb2c3f94ab30ea4013522015"
+  },
+  "started": "2026-10-04T01:55:54+0600",
+  "seconds": 154.67365735400017,
+  "flips": 0,
+  "parse_calls": 98542,
+  "real_calls": 69829,
+  "saved_decisions": [
+    "generalize_letters_in_rule:12",
+    "generalize_letters_in_rule:15",
+    "generalize_letters_in_rule:16",
+    "generalize_letters_in_rule:22",
+    "generalize_letters_in_rule:23",
+    "generalize_letters_in_rule:24",
+    "generalize_letters_in_rule:6",
+    "generalize_letters_in_rule:7",
+    "generalize_special_symbols:13",
+    "generalize_special_symbols:9",
+    "generalize_to_alphanum:4",
+    "generalize_to_alphanum:5",
+    "generalize_to_strings:1",
+    "generalize_to_strings:2",
+    "generalize_to_strings:3",
+    "generalize_to_strings:4"
+  ],
+  "rules": 33,
+  "alternatives": 191,
+  "matches_original_grammar": true,
+  "matches_original_query_sequence": true,
+  "control_validated": true
+}

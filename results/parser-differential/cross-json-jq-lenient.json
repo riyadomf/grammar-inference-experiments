@@ -1,0 +1,31 @@
+{
+ "log": "runs/json-jq-lenient/search.log",
+ "n_samples": 1000,
+ "depth": 5,
+ "precision": {
+  "parse_json": 0.541,
+  "python": 0.882,
+  "jq": 0.979
+ },
+ "recall": {},
+ "agreement": {
+  "parse_json|python": {
+   "both_accept": 541,
+   "only_parse_json": 0,
+   "only_python": 341,
+   "both_reject": 118
+  },
+  "parse_json|jq": {
+   "both_accept": 541,
+   "only_parse_json": 0,
+   "only_jq": 438,
+   "both_reject": 21
+  },
+  "python|jq": {
+   "both_accept": 882,
+   "only_python": 0,
+   "only_jq": 97,
+   "both_reject": 21
+  }
+ }
+}
